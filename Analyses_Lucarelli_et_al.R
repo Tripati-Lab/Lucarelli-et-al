@@ -1,6 +1,8 @@
 
 # Steps to perform all cuts and export final data. "Stnd" is a placeholder for the name of the standard being called.
 
+library(openxlsx)
+
 # Find initial cutpoints
 data_cuts <- findCutpoints(data$D48CDES_Final)
 
