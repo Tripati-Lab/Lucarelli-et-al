@@ -8,3 +8,7 @@ findcutpoints.R contains the functions that should be loaded into memory ahead o
 Analyses_Lucarelli_et_al.R contains script for each data cleaning step and instructions for exporting final data to spreadsheets.
 
 All_standards_exclusions_config1.xlsx contains a template for tracking the data cleaning process
+
+The Raw Data folder contains output from Easotope prior to exclusion of poorly-constrained replicates
+
+The Final Data folder contains spreadsheets produced by the cleaning process as shown in Analyses_Lucarelli_et_al.R
