@@ -3,7 +3,7 @@ Code to accompany Equilibrated gas and carbonate standard-derived paired clumped
 
 SI Appendix A.pdf contains plain languange instructions and code examples for formatting and cleaning data, and when to apply each of the four functions found in findcutpoints.R
 
-findcutpoints.R contains the functions that should be loaded into memory ahead of data cleaning.
+SI Appendix B is the R script findcutpoints.R, which contains the functions that should be loaded into memory ahead of data cleaning.
 
 Analyses_Lucarelli_et_al.R contains script for each data cleaning step and instructions for exporting final data to spreadsheets.
 
