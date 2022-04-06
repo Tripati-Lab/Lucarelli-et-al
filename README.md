@@ -7,5 +7,5 @@ Analyses_Lucarelli_et_al.R contains script for each data cleaning step and instr
 
 Inter-instrumental_comparisons_Lucarelli_et_al.R contains inter-instrumental comparisons and power analyses, in addition to data summaries - all described in the manuscript.
 
-All_standards_exclusions_config1.xlsx contains a template for tracking the data cleaning process
+All final data is contained in the Supplemental Tables. 
 
