@@ -9,6 +9,3 @@ Inter-instrumental_comparisons_Lucarelli_et_al.R contains inter-instrumental com
 
 All_standards_exclusions_config1.xlsx contains a template for tracking the data cleaning process
 
-The Raw Data folder contains output from Easotope prior to exclusion of poorly-constrained replicates
-
-The Final Data folder contains individual spreadsheets produced by the cleaning process as shown in Analyses_Lucarelli_et_al.R
